@@ -2,6 +2,6 @@
 <i>It is not AI, the computer just plays the most optimum move</i><br/> 
 I made this dumb TicTacToe program on Python<br />
 Basically it is a TicTacToe game v/s the computer<br />
-Hope you enjoy it!
+Hope you enjoy it!</br></br>
 <i> Made on 16/7/2021 </i><br/>
 <i> Uploaded on 12/6/2023 </i>
